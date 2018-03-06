@@ -173,7 +173,7 @@ export class AppModule { }
 ```
 
 #### Modify app.component.ts
-In the same directory, modify **app.component.ts** as follows. This example explains how to install **Bar Chart**. So **graphData** are only for **Bar Chart**. You can install other charts by changing **chartType** name and **graphData(JsonData)**.
+In the same directory, modify **app.component.ts** as follows.
 
 ```typescript
 import { Component } from '@angular/core';
@@ -1154,9 +1154,6 @@ In the same directory, modify **app.component.html** as follows.
 #### Modify styles.css
 Change to the parent directory, you will find **styles.css**. Add the following script into the file. 
 
-```bash
-$ cd ..
-```
 
 ```css
 
