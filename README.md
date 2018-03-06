@@ -57,6 +57,12 @@ $ npm install o2-chart-lib --save
 
 ## Reference
 
+- "Angular5 Custom Library: The definitive, step-by-step guide", 
+<https://www.udemy.com/draft/1461368/learn/v4/content>
+
+- "Angular5用 カスタムライブラリの作成", 
+<https://www.udemy.com/draft/1450138/learn/v4/content>
+
 - "データビジュアライゼーションのためのD3.js徹底入門 Webで魅せるグラフ&チャートの作り方",2014/6/6,by 古籏 一浩, 
 <http://www.amazon.co.jp/s/ref=nb_sb_noss?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&url=search-alias%3Daps&field-keywords=ISBN978-4-7973-6886-4&rh=i%3Aaps%2Ck%3AISBN978-4-7973-6886-4>
 
