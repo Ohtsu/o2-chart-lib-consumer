@@ -38,20 +38,27 @@ _Sample Program for setting config data_,
 
 ## Installation
 
-To install this library, run:
+To install this consumer project, run simply:
 
 ```bash
-$ npm install d3@4.3.0 --save
-$ npm install o2-chart-lib --save
+$ npm install 
 ```
+## Start project
 
+If you start local server as follows, you can get many kinds of charts in your browser by accessing **http://localhost:4200**.
+
+
+```bash
+$ ng serve 
+```
 
 ## Version
 
-   - o2-chart-lib : 1.0
-   - Angular5     : 5.2.0
-   - TypeScript   : 2.5.3
-   - d3.js        : 4.3.0
+   - o2-chart-lib-consumer : 1.0
+   - o2-chart-lib          : 1.0
+   - Angular5              : 5.2.0
+   - TypeScript            : 2.5.3
+   - d3.js                 : 4.3.0
 
 
 
@@ -96,7 +103,7 @@ copyright 2018 by Shuichi Ohtsu (DigiPub Japan)
 
 MIT © [Shuichi Ohtsu](ohtsu@digipub-net.com)
 
-### Step by Step Intallation for Angular-CLI
+### Step by Step Intallation of _o2-chart-lib_
 
 _Video_,
 <https://youtu.be/>
