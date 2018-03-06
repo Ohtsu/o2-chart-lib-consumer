@@ -6,7 +6,7 @@
 _o2-chart-lib_ is a chart library using d3.js (version 4) for Angular5 written by TypeScript2.
 
 _Demo Page_,
-<https://github.com/Ohtsu/o2-chart-lib-consumer>
+<https://ohtsu.github.io/o2-chart/>
 
 _Sample Program for setting config data_,
 <https://github.com/ohtsu/o2-chart/>
