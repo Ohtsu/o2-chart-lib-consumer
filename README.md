@@ -184,7 +184,7 @@ In the same directory, modify **app.component.ts** as follows.
 
 ```typescript
 import { Component } from '@angular/core';
-import { ChartConst } from 'O2-chart-lib'; // <= Add
+import { ChartConst } from 'o2-chart-lib'; // <= Add
 
 @Component({
   selector: 'app-root',
