@@ -9,7 +9,7 @@ _Demo Page_,
 <https://ohtsu.github.io/o2-chart/>
 
 _Sample Program for setting config data_,
-<https://github.com/ohtsu/o2-chart/>
+<https://github.com/ohtsu/o2-chart-lib-consumer/>
 
 ## Overview 
    - _o2-chart-lib_ is a wrapper library of d3.js (version 4) for Angular5
@@ -107,7 +107,7 @@ MIT © [Shuichi Ohtsu](ohtsu@digipub-net.com)
 ### Step by Step Intallation of _o2-chart-lib_
 
 _Video_,
-<https://youtu.be/>
+<https://youtu.be/fRQ0qrNm-To>
 
 #### Install @angular/cli
 
