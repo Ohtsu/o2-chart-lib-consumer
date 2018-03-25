@@ -1,6 +1,5 @@
 # _o2-chart-lib_ Chart Library for Angular5 by TypeScript2
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
-[![Travis Test](https://travis-ci.org/Ohtsu/o2-chart-lib.svg?branch=master)](BUILD)
 
 
 _o2-chart-lib_ is a chart library using d3.js (version 4) for Angular5 written by TypeScript2.
